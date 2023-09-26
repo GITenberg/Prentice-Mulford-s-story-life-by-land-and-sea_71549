@@ -1,11 +1,16 @@
 _repo: Prentice-Mulford-s-story-life-by-land-and-sea_71549
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71549-h/images/cover.jpg
 creator:
   author:
     agent_name: Mulford, Prentice
     gutenberg_agent_id: '56280'
     url: http://www.gutenberg.org/2009/agents/56280
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71549#Prentice-Mulford-s-story-life-by-land-and-sea
 gutenberg_issued: '2023-09-02'
 identifiers:
   gutenberg: '71549'
